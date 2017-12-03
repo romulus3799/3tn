@@ -1,0 +1,2 @@
+# 3tn
+Ah, the immortal classic game of Tic Tac Toe. However, everybody who has played Tic Tac Toe more than a few times knows that as long as both players think enough, the game will almost always result in a draw. To counter this dead end, people invented Ultimate Tic Tac Toe, where each square has a board inside it. That's all well and good, but what if instead of playing Tic Tac Toe with two players, you could play it with *n* players?
